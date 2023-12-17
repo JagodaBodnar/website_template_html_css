@@ -7,6 +7,9 @@ https://github.com </br>
 https://cnn.com </br>
 https://www.4barsrest.com/ </br>
 
+### Demo
+https://poetic-malabi-5d0aff.netlify.app/
+
 ### My choice
 
 https://www.4barsrest.com/
@@ -21,6 +24,5 @@ Page visualisation at the time of doing exercise:
 ![page-template-7.PNG](assets%2Fpage-template-7.PNG)
 ![page-template-8.PNG](assets%2Fpage-template-8.PNG)
 
-### Demo
-https://poetic-malabi-5d0aff.netlify.app/
+
 
